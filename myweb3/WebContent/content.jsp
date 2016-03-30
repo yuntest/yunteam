@@ -9,5 +9,6 @@
 <body>
 <h2>content.jsp</h2>
 <h3>넘어온결과:<%=request.getAttribute("result") %></h3>
+<label>윤석이 똥방구 줄까?</label>
 </body>
 </html>
